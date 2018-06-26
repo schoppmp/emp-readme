@@ -1,4 +1,5 @@
-git clone https://github.com/emp-toolkit/emp-readme.git
+git clone https://github.com/schoppmp/emp-readme.git
+git checkout compat
 bash ./emp-readme/scripts/install_packages.sh
 bash ./emp-readme/scripts/install_relic.sh
 bash ./emp-readme/scripts/install_emp-tool.sh
