@@ -5,7 +5,7 @@
 
 1. Go the the folder you want to install everything
 
-2. `wget https://goo.gl/wmt4KB -O install.sh && bash install.sh`
+2. `wget https://raw.githubusercontent.com/schoppmp/emp-readme/compat/scripts/setup_new_machine.sh -O install.sh && bash install.sh`
 
 ## Detailed Installation
 
